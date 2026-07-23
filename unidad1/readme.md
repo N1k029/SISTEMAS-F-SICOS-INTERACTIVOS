@@ -1,17 +1,23 @@
 # UNIDAD 1: "AUDIO"
 
-asdasdsasdasdasdsasdasdass  
-eeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+## BITÁCORA
+
+- Antes de comenzar a realizar el código, comencé a jugar con el programa learning music.ableton y llegué a la idea de querer recrear la canción de Madagascar: “I Like to Move it”  
+- Busqué un pequeño tutorial para poder construir la pieza lo más fidedigna posible dentro de learning music.abelton.  
+- Dentro de las funciones que me ofrecía abelton, usé “Make beats”, “Play with Chords” y "Play with Basslines". Las usé para guiarme 
 
 
 Tutorial:
 
 [Canal de Switch Angel](https://www.youtube.com/@Switch-Angel)
 
-<img width="865" height="347" alt="image" src="https://github.com/user-attachments/assets/6e797d30-e350-4d0a-9f4c-f3be2acdba3e" />
+<img width="1667" height="851" alt="Captura de pantalla 2026-07-23 113539" src="https://github.com/user-attachments/assets/63ed5eb5-b696-4a90-b292-3ae4b6d930a3" />
+>
 
+![Uploading Captura de pantalla 2026-07-23 132429.png…]()
 
-## Subsecc H2
+## CÓDIGO
 
 
 ``` js
