@@ -5,12 +5,16 @@
 
 - Antes de comenzar a realizar el código, comencé a jugar con el programa learning music.ableton y llegué a la idea de querer recrear la canción de Madagascar: “I Like to Move it”  
 - Busqué un pequeño tutorial para poder construir la pieza lo más fidedigna posible dentro de learning music.abelton.  
-- Dentro de las funciones que me ofrecía abelton, usé “Make beats”, “Play with Chords” y "Play with Basslines". Las usé para guiarme 
+- Dentro de las funciones que me ofrecía abelton, usé herramientas clave como:  
+
+    Make beats: Para entender y maquetar la base rítmica de la percusión.   
+    Play with Chords: Para explorar la progresión armónica y el movimiento de la canción.   
+    Play with Baselines: Para definir el patrón del bajo y sus acentos.  
 
 
-Tutorial:
 
-[Canal de Switch Angel](https://www.youtube.com/@Switch-Angel)
+Tutorial:  
+["I Like to Move it"l]([https://www.youtube.com/@Switch-Angel](https://youtu.be/_7FRyllNKak?si=qMhHgGopsbw1jRct))
 
 <img width="1667" height="851" alt="Captura de pantalla 2026-07-23 113539" src="https://github.com/user-attachments/assets/63ed5eb5-b696-4a90-b292-3ae4b6d930a3" />  
 
