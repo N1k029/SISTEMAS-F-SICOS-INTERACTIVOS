@@ -12,10 +12,12 @@ Tutorial:
 
 [Canal de Switch Angel](https://www.youtube.com/@Switch-Angel)
 
-<img width="1667" height="851" alt="Captura de pantalla 2026-07-23 113539" src="https://github.com/user-attachments/assets/63ed5eb5-b696-4a90-b292-3ae4b6d930a3" />
->
+<img width="1667" height="851" alt="Captura de pantalla 2026-07-23 113539" src="https://github.com/user-attachments/assets/63ed5eb5-b696-4a90-b292-3ae4b6d930a3" />  
 
-![Uploading Captura de pantalla 2026-07-23 132429.png…]()
+<img width="1687" height="897" alt="Captura de pantalla 2026-07-23 132429" src="https://github.com/user-attachments/assets/b76d124a-7f5f-4d5e-bca5-fe7b035ae965" />
+
+<img width="1712" height="915" alt="Captura de pantalla 2026-07-23 141649" src="https://github.com/user-attachments/assets/2cf82882-f767-4ebb-a952-65aae4449ad7" />
+
 
 ## CÓDIGO
 
