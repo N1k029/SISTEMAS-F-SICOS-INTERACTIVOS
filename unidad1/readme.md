@@ -1,4 +1,4 @@
-# Title H1
+# UNIDAD 1: "AUDIO"
 
 asdasdsasdasdasdsasdasdass  
 eeeeeeeeeeeeeeeeeeeeeeeeeeeee
@@ -15,38 +15,34 @@ Tutorial:
 
 
 ``` js
-setcpm(100/4)
+setcpm(60/4)
 
-let capa1 = s("bd [sd sd] ").bank("RolandTr909")
-let capa2 = s("hh*4").bank("RolandTr909")
-
-
-let capa3 = stack(
-  s("bd sd"),
-  s("hh*4")
+let drum = stack(
+  s("hh").beat("0, 2, 4, 6, 7, 8, 10, 12, 13, 14, 15",16),
+  s("cp").beat("2, 6, 10, 14",16),
+  s("bd").beat("0, 2, 4, 6, 8, 10, 12, 14",16)
 ).bank("RolandTr909")
 
+let melody = note("[c3 ~ c3 ~ c3 ~ c3 g3 eb3 ~ eb3 ~ d3 f3 d3 g3]")
+  .sound("sawtooth")
+  .lpf(20000)
+  .lpq(8)
+  .legato(1);
 
-let capa4 = stack(
-  s("bd").beat("2, 6, 10, 14",16),
-  s("hh").beat("1, 3, 5, 7, 9, 11, 13",16),
-  s("cp").beat("2, 4, 8, 12, 15",16),
-  s("bd").beat("0, 1, 3, 5, 6, 7, 9, 10, 11",16),
-).bank("RolandTr909")
+let bassline = note("[c2 ~ c2 ~ c2 ~ c2 g2 e2 ~ e2 ~ d2 f2 d2 g2]")
+  .sound("triangle")
+  .gain(2)
+  .legato(0.5);
 
-$:capa4
+let electric_bass = note("[~ c2 ~ c2 ~ c2 ~ c2 ~ eb2 ~ eb2 ~ d2 ~ g2]")
+  .sound("gm_electric_bass_finger")
+  .gain(0.2)
+  .legato(1);
 
-
-let melody = note("[c4 c4 e4 g4  e4 e4 ~ d4 c4 a3 a3 a3 ~ d4 d4 c4]").sound("piano").legato(1);
-
-$melody: melody
-
-
-let harmony = chord("F ~ ~ ~ ~ G ~ ~ ~ Em ~ ~ ~ ~ Am ~").voicing().s("gm_epiano1");
-let harmony2 = chord("F@4 G@4 Em@4 Am@4").voicing().s("gm_epiano1");
-let harmony3 = note("<[f3,a3,c4,e4] [g3,b3,d4,e4] [e3,g3,b3,d4] [a3,c4,e4,b4]>").sound("piano").attack(slider(0.233,0,1)).lpf(slider(1483.2,300,2000)).room(2)
-
-$harmony:harmony
+$:drum
+$:melody
+$:bassline
+$:electric_bass
 ```
 
 
