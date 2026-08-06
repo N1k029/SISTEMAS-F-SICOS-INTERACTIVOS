@@ -1,6 +1,6 @@
-# Unidad 2: "Visuales Generativas y Parametrizables"  
+# UNIDADES 2: "Visuales Generativas y Parametrizables"  
 
-## Bitácora:  
+## BITÁCORA:  
 
 - Intención Visual:  
     Transformar una ilustración en una acuarela digital viva,  
