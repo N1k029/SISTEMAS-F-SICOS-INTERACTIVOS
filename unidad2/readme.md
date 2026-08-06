@@ -3,7 +3,7 @@
 ## BITÁCORA  
 
 - INTENCIÓN VISUAL:  
-    "Crear una figura inestable que parece intentar conservar su forma mientras el ruido la transforma."
+    "Crear algo que genere tranquilidad, algo que se sienta con cierta vida."
 
 - DIAGRAMA:
   
