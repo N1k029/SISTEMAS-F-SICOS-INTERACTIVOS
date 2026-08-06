@@ -14,7 +14,7 @@
 
 
 Tutorial:  
-["I Like to Move it"l]([https://www.youtube.com/@Switch-Angel](https://youtu.be/_7FRyllNKak?si=qMhHgGopsbw1jRct))
+["I Like to Move it"]([https://www.youtube.com/@Switch-Angel](https://youtu.be/_7FRyllNKak?si=qMhHgGopsbw1jRct))
 
 <img width="1667" height="851" alt="Captura de pantalla 2026-07-23 113539" src="https://github.com/user-attachments/assets/63ed5eb5-b696-4a90-b292-3ae4b6d930a3" />  
 
