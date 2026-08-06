@@ -15,5 +15,5 @@
       Seguí investigando por una opción más viable y que cumpliera con los requisitos de la entrega y me topé con el siguiente tutorial en el que me apoyé
       para continuar con el experimento en TouchDesigner.
 
-- Link del tutorial: 
+- Link del tutorial: https://youtu.be/6szCrmdyoAw?si=e-ah1sMK77OkCRND
       
