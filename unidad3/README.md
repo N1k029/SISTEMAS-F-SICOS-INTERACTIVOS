@@ -11,3 +11,6 @@
 - El evento recibido se transforma en una señal que controla la escala de la composición mediante un Transform TOP. De esta manera, la visual cambia de tamaño siguiendo los golpes del bombo mientras la música se reproduce desde Strudel.
 
 - El objetivo principal de la actividad fue experimentar con una integración sencilla entre audio, eventos musicales y gráficos generativos en tiempo real.
+
+## CÓDIGO ADAPTADO A TOUCHDESIGNER
+
