@@ -12,7 +12,7 @@
 
 - El objetivo principal de la actividad fue experimentar con una integración sencilla entre audio, eventos musicales y gráficos generativos en tiempo real.
 
-## CÓDIGO ADAPTADO A TOUCHDESIGNER
+## CÓDIGO ACTUALIZADO
 
 ``` js
 const { visualid } = createParams('visualid')
