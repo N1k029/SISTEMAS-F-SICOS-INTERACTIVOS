@@ -1,6 +1,6 @@
 # UNIDAD 4: "Superficie de Control"
 
-## Bitácora
+## BITÁCORA
 
 ## CÓDIGO ACTUAALIZADO
 
