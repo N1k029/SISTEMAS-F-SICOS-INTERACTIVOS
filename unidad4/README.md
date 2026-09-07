@@ -4,8 +4,7 @@
 
 ## CÓDIGO ACTUAALIZADO
 
-
-
+``` js
 const { visualid } = createParams('visualid')
 
 setcpm(60/4)
